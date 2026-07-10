@@ -1,6 +1,6 @@
 # Controlador digital de _vending machine_ em SystemVerilog
 
-## Alunos: Ioseph dos Santos Silva, Luís Guilherme de Souza Coutinho
+### Alunos: Ioseph dos Santos Silva, Luís Guilherme de Souza Coutinho
 
 Projeto da trilha RTL Design do programa CI Expert (Residência Tecnológica em Microeletrônica — MCTI/Softex/IRede), criando um controlador digital de uma máquina de venda automática com 4 itens de exemplo (café, água, suco e _snack_), utilizando uma máquina de estados finitos do tipo Moore, com memória de dados e _datapath_ combinacional.
 
